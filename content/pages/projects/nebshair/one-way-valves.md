@@ -6,7 +6,7 @@ title: Nebshair - Page 2
 uid: 8c3a3d5c-2820-b60c-8818-e9cf57c805e1
 ---
 
-<< [Previous]({{< baseurl >}}/pages/projects/nebshair) [1]({{< baseurl >}}/pages/projects/nebshair) 2
+\<\< [Previous]({{< baseurl >}}/pages/projects/nebshair) [1]({{< baseurl >}}/pages/projects/nebshair) 2
 
 {{< anchor "One-Way_Valves" >}}{{< /anchor >}}One-Way Valves  
 _by Mary Jue Xu_
@@ -231,13 +231,13 @@ digitalWrite(dosePin, HIGH);
 
 sensorValue = analogRead(sensorPin); // defines analog output from the sensor as "sensorValue"
 
-if (sensorValue >= threshold && lastsensorValue <= threshold){
+if (sensorValue >= threshold && lastsensorValue \<= threshold){
 
 startTime = millis();
 
 }
 
-if (sensorValue <= threshold && lastsensorValue >= threshold){
+if (sensorValue \<= threshold && lastsensorValue >= threshold){
 
 elapsedTime = millis() - startTime;
 
@@ -278,4 +278,4 @@ This summer, we will be in China, New York, and Boston, so maybe some of us can 
 
 [Back to top](#One-Way_Valves)
 
-<< [Previous]({{< baseurl >}}/pages/projects/nebshair) [1]({{< baseurl >}}/pages/projects/nebshair) 2
+\<\< [Previous]({{< baseurl >}}/pages/projects/nebshair) [1]({{< baseurl >}}/pages/projects/nebshair) 2

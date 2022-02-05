@@ -56,47 +56,417 @@ This text is supplemented by papers and resources listed on the [Lectures and Re
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class participation and attendance | 20% |
-| Homework assignments | 15% |
-| Lab notebooks and assignments | 25% |
-| Presentations and design reviews | 25% |
-| Final design/prototype | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation and attendance
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework assignments
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab notebooks and assignments
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentations and design reviews
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final design/prototype
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
 Each week is composed of two lectures and a lab session. Homework is assigned during the first lecture of the week, and due on the first lecture of the following week. Similarly, lab homework is assigned during lab and due one week later at the following lab session.
 
-| LEC # | LECTURE TOPICS | LAB TOPICS | KEY DATES |
-| --- | --- | --- | --- |
-| {{< td-colspan 4 >}}**Part I: Survey of global health challenges and medical device categories**{{< /td-colspan >}} ||||
-| 1 | Introduction, global health overview | Lab 1: Drug delivery | Homework 1 due |
-| 2 | Drug delivery overview |
-| 3 | Infectious diseases | Lab 2: Diagnostics |  {{< br >}}{{< br >}} Homework 2 due {{< br >}}{{< br >}} Lab 1 homework due {{< br >}}{{< br >}}  |
-| 4 | Non-communicable diseases |
-| 5 | Capturing heart and lung sounds on a mobile phone – guest lecture by Katherine Kuan | Lab 3: Instrumentation | Lab 2 homework due |
-| 6 | Advances in telemedicine and patient monitoring |
-| 7 | Vaccines | Lab 4: Vital signs monitoring | Lab 3 homework due |
-| 8 | Arduous Arduino – guest lecture by Paul Hlebowitsh |
-| {{< td-colspan 4 >}}**Week** **#8: Spring break, Nicaragua trip**{{< /td-colspan >}} ||||
-| {{< td-colspan 4 >}}**Part II: Project design and development**{{< /td-colspan >}} ||||
-| 9 | User and setting-driven innovations to advance global healthcare – guest lecture by Kris Olson | Lab 5: Microfluidics |  {{< br >}}{{< br >}} Homework 3 due {{< br >}}{{< br >}} Lab 4 homework due {{< br >}}{{< br >}}  |
-| 10 | Prototyping of medical devices |
-| 11 | Neglected tropical diseases | Visit to Shriners Hospital for Children, Boston, MA | Lab 5 homework due |
-| 12 | Disabilities in the developing world |
-| 13 | Project team formation | Project team work | Lab 6 homework due |
-| 14 | FDA approvals | FDA 510(k) homework due |
-| 15 | Project brainstorming |
-| 16 | Visit to MIT laser cutter and 3-D printer | &nbsp; |
-| 17 | Project team work |
-| 18 | Project team work | &nbsp; |
-| 19 | Project team work |
-| 20 | Project team work | Blog/Lab notebook review Sketch model due |
-| 21 | Project team work | &nbsp; |
-| 22 | Project team work |
-| 23 | Role-playing simulation games | Final prototype due at MIT Museum at D-Lab Finale |
-| 24 | Project team work, Sketch model review feedback |
-| 25 | Project team work | No lab |
-| 26 | Project wrap-up
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+LECTURE TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LAB TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Part I: Survey of global health challenges and medical device categories**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction, global health overview
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 1: Drug delivery
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Drug delivery overview
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Infectious diseases
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 2: Diagnostics
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 2 due
+
+Lab 1 homework due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Non-communicable diseases
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Capturing heart and lung sounds on a mobile phone – guest lecture by Katherine Kuan
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 3: Instrumentation
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 2 homework due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Advances in telemedicine and patient monitoring
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Vaccines
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 4: Vital signs monitoring
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 3 homework due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Arduous Arduino – guest lecture by Paul Hlebowitsh
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Week** **#8: Spring break, Nicaragua trip**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Part II: Project design and development**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+User and setting-driven innovations to advance global healthcare – guest lecture by Kris Olson
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 5: Microfluidics
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 3 due
+
+Lab 4 homework due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Prototyping of medical devices
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Neglected tropical diseases
+{{< tdclose >}}
+{{< tdopen >}}
+Visit to Shriners Hospital for Children, Boston, MA
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 5 homework due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Disabilities in the developing world
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Project team formation
+{{< tdclose >}}
+{{< tdopen >}}
+Project team work
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 6 homework due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+FDA approvals
+{{< tdclose >}}
+{{< tdopen >}}
+FDA 510(k) homework due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Project brainstorming
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Visit to MIT laser cutter and 3-D printer
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Project team work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Project team work
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Project team work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Project team work
+{{< tdclose >}}
+{{< tdopen >}}
+Blog/Lab notebook review Sketch model due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Project team work
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Project team work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Role-playing simulation games
+{{< tdclose >}}
+{{< tdopen >}}
+Final prototype due at MIT Museum at D-Lab Finale
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Project team work, Sketch model review feedback
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Project team work
+{{< tdclose >}}
+{{< tdopen >}}
+No lab
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Project wrap-up
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

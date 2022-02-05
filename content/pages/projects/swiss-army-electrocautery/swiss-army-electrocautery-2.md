@@ -6,7 +6,7 @@ title: Swiss Army Electrocautery - Page 3
 uid: bfbe597f-c281-aece-7644-2ceb2a3ff08d
 ---
 
-<< [Previous]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1) [1]({{< baseurl >}}/pages/projects/swiss-army-electrocautery) [2]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1) 3
+\<\< [Previous]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1) [1]({{< baseurl >}}/pages/projects/swiss-army-electrocautery) [2]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1) 3
 
 {{< anchor "Response_to_Dennis_Meeting" >}}{{< /anchor >}}Response to Dennis Meeting  
 _by Sonya Makhni_
@@ -142,4 +142,4 @@ Final Pugh Chart ([PDF]({{< baseurl >}}/resources/mitec_710s10_sarm_elecpc))
 
 [Back to top](#Response_to_Dennis_Meeting)
 
-<< [Previous]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1) [1]({{< baseurl >}}/pages/projects/swiss-army-electrocautery) [2]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1) 3
+\<\< [Previous]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1) [1]({{< baseurl >}}/pages/projects/swiss-army-electrocautery) [2]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1) 3

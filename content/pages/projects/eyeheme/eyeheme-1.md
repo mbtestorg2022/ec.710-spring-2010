@@ -6,7 +6,7 @@ title: EyeHeme - Page 2
 uid: f0a881e5-0cc4-23d7-a570-f619feff7140
 ---
 
-<< [Previous]({{< baseurl >}}/pages/projects/eyeheme) [1]({{< baseurl >}}/pages/projects/eyeheme) 2
+\<\< [Previous]({{< baseurl >}}/pages/projects/eyeheme) [1]({{< baseurl >}}/pages/projects/eyeheme) 2
 
 {{< anchor "New_Directions" >}}{{< /anchor >}}New Directions
 ------------------------------------------------------------
@@ -245,4 +245,4 @@ But congrats to Biosense for drawing more attention to the worldwide anemia prob
 
 [Back to top](#New_Directions)
 
-<< [Previous]({{< baseurl >}}/pages/projects/eyeheme) [1]({{< baseurl >}}/pages/projects/eyeheme) 2
+\<\< [Previous]({{< baseurl >}}/pages/projects/eyeheme) [1]({{< baseurl >}}/pages/projects/eyeheme) 2

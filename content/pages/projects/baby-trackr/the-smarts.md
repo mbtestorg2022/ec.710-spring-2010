@@ -6,7 +6,7 @@ title: BabyTrackr - Page 2
 uid: 1f285a39-6e3b-596b-f990-f46eed40d51c
 ---
 
-<< [Previous]({{< baseurl >}}/pages/projects/baby-trackr) [1]({{< baseurl >}}/pages/projects/baby-trackr) 2 [3]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch) [Next]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch) >>
+\<\< [Previous]({{< baseurl >}}/pages/projects/baby-trackr) [1]({{< baseurl >}}/pages/projects/baby-trackr) 2 [3]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch) [Next]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch) >>
 
 {{< anchor "The_Smarts" >}}{{< /anchor >}}The Smarts, and How We Got There.  
 _by Maysun M. Hasan_
@@ -84,12 +84,72 @@ B) Placental Abruption: The placenta carries all the nutrients and O2 to the bab
 
 C) Uterine twitches: A normal contraction will occur by shortening and thickening of uterine wall muscle fiber. The contraction starts at the top of the uterine wall and waves down to the bottom. When "true" labor begins, women feel "false" labor pains, or a Braxton Hicks contraction, which is irregular uterine contractions that occur in the second or third trimester of pregnancy. They're the body's way of getting ready for the "real thing." They feel like a tightening in the abdomen that comes and goes. They do not get closer together, do not increase with walking, don't increase how long they last and don't feel stronger over time. Here is a table that doctors ask their patients over the phone apparently:
 
-| CONTRACTION CHARACTERSTICS | FALSE LABOR | TRUE LABOR |
-| --- | --- | --- |
-| **How often do the contractions occur?** | Contractions come at regular intervals and last about 30-70 seconds. As time goes on, they get closer together. | Contractions come at regular intervals and last about 30-70 seconds. As time goes on, they get closer together. |
-| **How strong are they?** | Contractions are usually weak and do not get much stronger. Or they may be strong at first and then get weaker. | Contractions steadily increase in strength. |
-| **Do they change with movement?** | Contractions may stop when you walk or rest, or may even stop if you change positions. | Contractions continue despite movement or changing positions. |
-| **Where do you feel the pain?** | Contractions are usually only felt in the front of the abdomen or pelvic region. | Contractions usually start in the lower back and move to the front of the abdomen. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CONTRACTION CHARACTERSTICS
+{{< thclose >}}
+{{< thopen >}}
+FALSE LABOR
+{{< thclose >}}
+{{< thopen >}}
+TRUE LABOR
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**How often do the contractions occur?**
+{{< tdclose >}}
+{{< tdopen >}}
+Contractions come at regular intervals and last about 30-70 seconds. As time goes on, they get closer together.
+{{< tdclose >}}
+{{< tdopen >}}
+Contractions come at regular intervals and last about 30-70 seconds. As time goes on, they get closer together.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**How strong are they?**
+{{< tdclose >}}
+{{< tdopen >}}
+Contractions are usually weak and do not get much stronger. Or they may be strong at first and then get weaker.
+{{< tdclose >}}
+{{< tdopen >}}
+Contractions steadily increase in strength.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Do they change with movement?**
+{{< tdclose >}}
+{{< tdopen >}}
+Contractions may stop when you walk or rest, or may even stop if you change positions.
+{{< tdclose >}}
+{{< tdopen >}}
+Contractions continue despite movement or changing positions.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Where do you feel the pain?**
+{{< tdclose >}}
+{{< tdopen >}}
+Contractions are usually only felt in the front of the abdomen or pelvic region.
+{{< tdclose >}}
+{{< tdopen >}}
+Contractions usually start in the lower back and move to the front of the abdomen.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 When twitching occurs, there is no wave-like movement of the contraction, so there is a distinct difference between the two. The twitches are more like a spasm, and also they occur in women who are not pregnant as well, and do not cause pain so there is another difference between contractions and twitches/spasms. One last little tidbit, which you guys might know already: women in the US go to the hospital with contractions occur every five minutes for an hour.
 
@@ -241,4 +301,4 @@ The next step will be to connect it to the display and get everything running!
 {{< image-gallery-item href="3ceac5f40e983a1c0bd569ece42e8f12_gallery3img7.jpg" data-ngdesc="Four test materials with squeeze toys." text="Four test materials with squeeze toys." >}}
 {{< image-gallery-item href="309aee961e455f6ebb011d8afff6f898_gallery3img8.jpg" data-ngdesc="Squeezing a toy ball." text="Squeezing a toy ball." >}}
 {{</ image-gallery >}}
-<< [Previous]({{< baseurl >}}/pages/projects/baby-trackr) [1]({{< baseurl >}}/pages/projects/baby-trackr) 2 [3]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch) [Next]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch) >>
+\<\< [Previous]({{< baseurl >}}/pages/projects/baby-trackr) [1]({{< baseurl >}}/pages/projects/baby-trackr) 2 [3]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch) [Next]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch) >>

@@ -6,7 +6,7 @@ title: BabyTrackr - Page 3
 uid: f4a65097-6cb8-db2f-dac4-78dd84c5f5ef
 ---
 
-<< [Previous]({{< baseurl >}}/pages/projects/baby-trackr/the-smarts) [1]({{< baseurl >}}/pages/projects/baby-trackr) [2]({{< baseurl >}}/pages/projects/baby-trackr/the-smarts) 3
+\<\< [Previous]({{< baseurl >}}/pages/projects/baby-trackr/the-smarts) [1]({{< baseurl >}}/pages/projects/baby-trackr) [2]({{< baseurl >}}/pages/projects/baby-trackr/the-smarts) 3
 
 {{< anchor "Cloth_Patch" >}}{{< /anchor >}}Cloth Patch for Monitoring Contractions!  
 _by Karina Isaak_

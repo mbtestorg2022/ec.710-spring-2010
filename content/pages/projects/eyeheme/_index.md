@@ -50,9 +50,9 @@ This equipment can be used any time a pulse ox or anemia diagnostic is needed. I
 
 **Readout declares:**
 
-*   9.5 < Hb < 11 = mildly anemic.
-*   7 < Hb < 9.5 = moderate anemia
-*   Hb < 7 = severe anemia. AND/OR similar using hematocrit. (Hct ~ 3 \* Hb).
+*   9.5 \< Hb \< 11 = mildly anemic.
+*   7 \< Hb \< 9.5 = moderate anemia
+*   Hb \< 7 = severe anemia. AND/OR similar using hematocrit. (Hct ~ 3 \* Hb).
 
 Correlation value w/ established lab test, r > 0.75
 
@@ -60,9 +60,9 @@ Sensitivity > 80%
 
 Specificity > 60%
 
-< $100 for device (could be subsidized w/ US sales)
+\< $100 for device (could be subsidized w/ US sales)
 
-<$0.50 per test (average maintenance, power consumption, sterilization, etc)
+\<$0.50 per test (average maintenance, power consumption, sterilization, etc)
 
 ### How is the Local User Community Approaching thePproblem? What Type of Improvised, or Local Solutions are Being Used?
 
@@ -123,47 +123,550 @@ Design Specifications
 
 Readout declares:
 
-*   9.5 < Hb < 11 = mildly anemic.
-*   7 < Hb < 9.5 = moderate anemia
-*   Hb < 7 = severe anemia. AND/OR similar using hematocrit. (Hct ~ 3 \* Hb).
+*   9.5 \< Hb \< 11 = mildly anemic.
+*   7 \< Hb \< 9.5 = moderate anemia
+*   Hb \< 7 = severe anemia. AND/OR similar using hematocrit. (Hct ~ 3 \* Hb).
 *   Correlation value w/ established lab test, r > 0.75
 *   Sensitivity > 80%
 *   Specificity > 60%
-*   < $100 for device (could be subsidized w/ US sales)
-*   <$0.50 per test (average maintenance, power consumption, sterilization, etc)
+*   \< $100 for device (could be subsidized w/ US sales)
+*   \<$0.50 per test (average maintenance, power consumption, sterilization, etc)
 
 Selection Matrix
 ----------------
 
-| EVALUATION CRITERIA | NOTES  {{< br >}}ON SPECIFICS | WEIGHTS | BASELINE: NIR  {{< br >}}TRANSMISSION  {{< br >}}(e.g., ORSENSE,  {{< br >}}MASIMO) | CONDUCTANCE  {{< br >}}(CHANGE in  {{< br >}}ELECTRICAL  {{< br >}}COUNDUCTIVITY) | REFLECTANCE  {{< br >}}SPECTROSCOPY |
-| --- | --- | --- | --- | --- | --- |
-| Safety | Risk of infection | 2 | 0 | 0 | 0 |
-| Accurate | Sensitivity | 2 | 0 (94%) | 0 | 0 |
-| Accurate | Specificity (1-false positive) | 1 | 0 (78%) | \-1 | 0 |
-| Robust | Can withstand extreme conditions (weather, temperature fluctuations, transportation) | 1 | 0 | 0 | 0 |
-| Cheap | Total lifetime cost (Upfront cost + per use cost) | 2 | 0 | 0 | 0 |
-| Maintenance / Sanitation | How often, how difficult it is to fix, how much effort to maintain | 1 | 0 | \-1 | 0 |
-| Reusable | &nbsp; | 0.5 | 0 | 0 | 0 |
-| Portable | Can travel, either with health worker or in ambulance | 1 | 0 | 0 | 0 |
-| Local Mfg | Are the parts locally attainable? | 0.1 | 0 | \-1 | 0 |
-| Speed of Use | Turnaround time for patient use, how long it takes to get results | 2 | 0 | 0 | 0 |
-| Usability | How easy it is to use the device and to analyze results | 2 | 0 | 0 | 0 |
-| Totals (incl. weights) | &nbsp; | 0 | \-2.1 | 0 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+EVALUATION CRITERIA
+{{< thclose >}}
+{{< thopen >}}
+NOTES  
+ON SPECIFICS
+{{< thclose >}}
+{{< thopen >}}
+WEIGHTS
+{{< thclose >}}
+{{< thopen >}}
+BASELINE: NIR  
+TRANSMISSION  
+(e.g., ORSENSE,  
+MASIMO)
+{{< thclose >}}
+{{< thopen >}}
+CONDUCTANCE  
+(CHANGE in  
+ELECTRICAL  
+COUNDUCTIVITY)
+{{< thclose >}}
+{{< thopen >}}
+REFLECTANCE  
+SPECTROSCOPY
+{{< thclose >}}
 
-| EVALUATION CRITERIA | NOTES ON SPECIFICS | WEIGHTS | ULTRASOUND/  {{< br >}}OPTOACOUSTIC  {{< br >}}SPECTROSCOPY | SPECTRO-  {{< br >}}PHOTOMETRIC  {{< br >}}IMAGING |
-| --- | --- | --- | --- | --- |
-| Safety | Risk of infection | 2 | 0 | \-1 |
-| Accurate | Sensitivity | 2 | 0 | 0 |
-| Accurate | Specificity (1-false positive) | 1 | 1 | 1 |
-| Robust | Can withstand extreme conditions (weather, temperature fluctuations, transportation) | 1 | \-1 | \-1 |
-| Cheap | Total lifetime cost (Upfront cost + per use cost) | 2 | \-1 | \-1 |
-| Maintenance / Sanitation | How often, how difficult it is to fix, how much effort to maintain | 1 | 0 | \-1 |
-| Reusable | &nbsp; | 0.5 | 0 | 0 |
-| Portable | Can travel, either with health worker or in ambulance | 1 | \-1 | \-1 |
-| Local Mfg | Are the parts locally attainable? | 0.1 | \-1 | \-1 |
-| Speed of Use | Turnaround time for patient use, how long it takes to get results | 2 | 0 | \-1 |
-| Usability | How easy it is to use the device and to analyze results | 2 | \-1 | \-1 |
-| Totals (incl. weights) | &nbsp; | \-5.1 | \-10.1 
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Safety
+{{< tdclose >}}
+{{< tdopen >}}
+Risk of infection
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Accurate
+{{< tdclose >}}
+{{< tdopen >}}
+Sensitivity
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+0 (94%)
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Accurate
+{{< tdclose >}}
+{{< tdopen >}}
+Specificity (1-false positive)
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+0 (78%)
+{{< tdclose >}}
+{{< tdopen >}}
+\-1
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Robust
+{{< tdclose >}}
+{{< tdopen >}}
+Can withstand extreme conditions (weather, temperature fluctuations, transportation)
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Cheap
+{{< tdclose >}}
+{{< tdopen >}}
+Total lifetime cost (Upfront cost + per use cost)
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Maintenance / Sanitation
+{{< tdclose >}}
+{{< tdopen >}}
+How often, how difficult it is to fix, how much effort to maintain
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+\-1
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reusable
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+0.5
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Portable
+{{< tdclose >}}
+{{< tdopen >}}
+Can travel, either with health worker or in ambulance
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Local Mfg
+{{< tdclose >}}
+{{< tdopen >}}
+Are the parts locally attainable?
+{{< tdclose >}}
+{{< tdopen >}}
+0.1
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+\-1
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Speed of Use
+{{< tdclose >}}
+{{< tdopen >}}
+Turnaround time for patient use, how long it takes to get results
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Usability
+{{< tdclose >}}
+{{< tdopen >}}
+How easy it is to use the device and to analyze results
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Totals (incl. weights)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+\-2.1
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+EVALUATION CRITERIA
+{{< thclose >}}
+{{< thopen >}}
+NOTES ON SPECIFICS
+{{< thclose >}}
+{{< thopen >}}
+WEIGHTS
+{{< thclose >}}
+{{< thopen >}}
+ULTRASOUND/  
+OPTOACOUSTIC  
+SPECTROSCOPY
+{{< thclose >}}
+{{< thopen >}}
+SPECTRO-  
+PHOTOMETRIC  
+IMAGING
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Safety
+{{< tdclose >}}
+{{< tdopen >}}
+Risk of infection
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+\-1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Accurate
+{{< tdclose >}}
+{{< tdopen >}}
+Sensitivity
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Accurate
+{{< tdclose >}}
+{{< tdopen >}}
+Specificity (1-false positive)
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Robust
+{{< tdclose >}}
+{{< tdopen >}}
+Can withstand extreme conditions (weather, temperature fluctuations, transportation)
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+\-1
+{{< tdclose >}}
+{{< tdopen >}}
+\-1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Cheap
+{{< tdclose >}}
+{{< tdopen >}}
+Total lifetime cost (Upfront cost + per use cost)
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+\-1
+{{< tdclose >}}
+{{< tdopen >}}
+\-1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Maintenance / Sanitation
+{{< tdclose >}}
+{{< tdopen >}}
+How often, how difficult it is to fix, how much effort to maintain
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+\-1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reusable
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+0.5
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Portable
+{{< tdclose >}}
+{{< tdopen >}}
+Can travel, either with health worker or in ambulance
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+\-1
+{{< tdclose >}}
+{{< tdopen >}}
+\-1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Local Mfg
+{{< tdclose >}}
+{{< tdopen >}}
+Are the parts locally attainable?
+{{< tdclose >}}
+{{< tdopen >}}
+0.1
+{{< tdclose >}}
+{{< tdopen >}}
+\-1
+{{< tdclose >}}
+{{< tdopen >}}
+\-1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Speed of Use
+{{< tdclose >}}
+{{< tdopen >}}
+Turnaround time for patient use, how long it takes to get results
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+\-1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Usability
+{{< tdclose >}}
+{{< tdopen >}}
+How easy it is to use the device and to analyze results
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+\-1
+{{< tdclose >}}
+{{< tdopen >}}
+\-1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Totals (incl. weights)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+\-5.1
+{{< tdclose >}}
+{{< tdopen >}}
+\-10.1
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 [Back to top](#Non-invasive_anemia_)
 

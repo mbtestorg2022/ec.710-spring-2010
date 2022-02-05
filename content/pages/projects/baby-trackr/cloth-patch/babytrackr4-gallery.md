@@ -14,4 +14,4 @@ uid: e536b319-9193-b55a-39cf-dc26a2849a02
 {{< image-gallery-item href="47cc2e35860a21d064d2046c96ae2687_audience3.jpg" data-ngdesc="Speaking with an attendee at the MIT Museum." text="Speaking with an attendee at the MIT Museum." >}}
 {{< image-gallery-item href="8bb1426d58fc39b4a6748c91b184359c_tektronix.jpg" data-ngdesc="Oscilloscope readout from prototype." text="Oscilloscope readout from prototype." >}}
 {{</ image-gallery >}}
-<< [Previous]({{< baseurl >}}/pages/projects/baby-trackr/the-smarts) [1]({{< baseurl >}}/pages/projects/baby-trackr) [2]({{< baseurl >}}/pages/projects/baby-trackr/the-smarts) 3
+\<\< [Previous]({{< baseurl >}}/pages/projects/baby-trackr/the-smarts) [1]({{< baseurl >}}/pages/projects/baby-trackr) [2]({{< baseurl >}}/pages/projects/baby-trackr/the-smarts) 3
