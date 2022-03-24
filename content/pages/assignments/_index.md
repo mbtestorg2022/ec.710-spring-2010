@@ -152,7 +152,7 @@ Diagnostics lab:
 
 {{< tdclose >}}
 {{< tdopen >}}
-Lab-on-a-chip instructions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitec_710s10_labonchp_hmwk))
+Lab-on-a-chip instructions ([PDF]({{< baseurl >}}/resources/mitec_710s10_labonchp_hmwk))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -200,7 +200,7 @@ FDA 510(k) homework
 Use the U.S. Food and Drug Administration (FDA) Web site to search for 510(k) Premarket Notifications for your medical device, and identify any predicate devices.
 {{< tdclose >}}
 {{< tdopen >}}
-Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3MB]({{< baseurl >}}/resources/mitec_710s10_510k_homework))
+Slides ([PDF - 1.3MB]({{< baseurl >}}/resources/mitec_710s10_510k_homework))
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -247,7 +247,7 @@ _by Shan Tie_
 
 Chemical solutions to static electricity: [http://www.explainthatstuff.com/howantistaticcoatingswork.html](http://www.explainthatstuff.com/howantistaticcoatingswork.html)
 
-Glass pipes with a protective antistatic coating: (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://link.springer.com/article/10.1007/BF00701014))
+Glass pipes with a protective antistatic coating: ([PDF](https://link.springer.com/article/10.1007/BF00701014))
 
 The optimal composition of the applied film is found to be: 50% SnCI~.5H20 with a concentration of 1% SbCI3.
 

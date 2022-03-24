@@ -37,7 +37,7 @@ READINGS
 Introduction, global health overview
 {{< tdclose >}}
 {{< tdopen >}}
-Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.4MB]({{< baseurl >}}/resources/mitec_710s10_lecture1_ocw))
+Slides ([PDF - 2.4MB]({{< baseurl >}}/resources/mitec_710s10_lecture1_ocw))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -111,7 +111,7 @@ Disease Control Priorities Project. [_Disease Control Priorities in Developing C
 \- Chapter 30, "Diabetes: The Pandemic and Potential Solutions." by K. M. Venkat Narayan, et al.  
 \- Chapter 33, "Cardiovascular Disease." by Thomas A. Gaziano, et al.
 
-International Atomic Energy Agency. _A Silent Crisis: Cancer Treatment in Developing Countries_. September 2003. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://screening.iarc.fr/doc/treatingcancer.pdf))
+International Atomic Energy Agency. _A Silent Crisis: Cancer Treatment in Developing Countries_. September 2003. ([PDF](http://screening.iarc.fr/doc/treatingcancer.pdf))
 
 McNeil Jr., Donald G. "[In India, a Quest to Ease the Pain of the Dying](http://www.nytimes.com/2007/09/11/health/11pain.html?_r=3)." _New York Times_, September 11, 2007.
 
@@ -131,7 +131,7 @@ Monroy-Hernandez, Andres, and Leo Anthony Celi, MD. "ICT4D to Scale Cervical Can
 Capturing heart and lung sounds on a mobile phone – guest lecture by Katherine Kuan
 {{< tdclose >}}
 {{< tdopen >}}
-Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4MB]({{< baseurl >}}/resources/mitec_710s10_lecture5)). Courtesy of Katherine Kuan.
+Slides ([PDF - 1.4MB]({{< baseurl >}}/resources/mitec_710s10_lecture5)). Courtesy of Katherine Kuan.
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -153,7 +153,7 @@ Slides ([PDF]({{< baseurl >}}/resources/mitec_710s10_lecture6)). Courtesy of Gar
 
 Martinez, Andres W., et al. "[Simple Telemedicine for Developing Regions: Camera Phones and Paper-Based Microfluidic Devices for Real-Time, Off-Site Diagnosis](http://dx.doi.org/10.1021/ac800112r)." _Analytical Chemistry_ 80 (2008): 3699-707.
 
-Szot, Agneiszka, et al. "Diagnostic Accuracy of Chest X-rays Acquired Using a Digital Camera for Low-cost Teleradiology." _International Journal of Medical Informatics_ 73 (2004): 65-73. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.sciencedirect.com/science/article/pii/S138650560300159X?via%3Dihub))
+Szot, Agneiszka, et al. "Diagnostic Accuracy of Chest X-rays Acquired Using a Digital Camera for Low-cost Teleradiology." _International Journal of Medical Informatics_ 73 (2004): 65-73. ([PDF](https://www.sciencedirect.com/science/article/pii/S138650560300159X?via%3Dihub))
 
 amithap1982. "CytoSight a Telepathology Solution by KTwo powered by Intel." February 4, 2009. YouTube. Accessed August 25, 2009. [http://www.youtube.com/watch?v=ssp4cJyfOEU](http://www.youtube.com/watch?v=ssp4cJyfOEU).
 
@@ -520,9 +520,9 @@ Supplemental Readings
 Supporting material for the course textbook (_Rx for Survival_)
 
 *   [_Rx for Survival: A Global Health Challenge_](http://www.pbs.org/wgbh/rxforsurvival/index.html). This 2005 PBS television series, available on DVD, plus associated web resources, coincided with the book's publication.
-*   Reader's Guide to _Rx for Survival_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.pbs.org/wgbh/rxforsurvival/pdf/Rx_PenguinReadGuide.pdf))
+*   Reader's Guide to _Rx for Survival_ ([PDF](http://www.pbs.org/wgbh/rxforsurvival/pdf/Rx_PenguinReadGuide.pdf))
 
-Geelhoed, Glenn W. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Surgery and Healing in the Developing World. (PDF - 4.71MB)_](https://www.rnfa.org/wp-content/uploads/2016/12/Surgery-Developing-World-Geelhoed.pdf) Georgetown, TX: Landes Biosciences, 2005. \[a complete online text\]
+Geelhoed, Glenn W. [_Surgery and Healing in the Developing World. (PDF - 4.71MB)_](https://www.rnfa.org/wp-content/uploads/2016/12/Surgery-Developing-World-Geelhoed.pdf) Georgetown, TX: Landes Biosciences, 2005. \[a complete online text\]
 
 Werner, David, Carol Thurman, and Jane Maxwell. [_Where There Is No Doctor: A Village Health Care Handbook_](http://www.hesperian.org/publications_download_wtnd.php). Updated. 2nd ed. Berkely, CA: Hesperian Foundation, 1992. ISBN: 9780942364156.
 
