@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: bb097725-8aab-b7d2-7e42-559fcd0fbc98
 resourcetype: Image
 title: BabyTrackr_Page07.jpg
 uid: 9ca82d51-4dc2-b95c-dc80-53aa55f75c3d

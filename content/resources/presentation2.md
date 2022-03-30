@@ -7,6 +7,7 @@ image_metadata:
   caption: Instructor Jose Gomez-Marquez introducing D-Lab Health to the audience.
   credit: 'Credit: Photo by the BabyTrackr Team.'
   image-alt: A photo showing the instructor presenting to the audience.
+parent_uid: f4a65097-6cb8-db2f-dac4-78dd84c5f5ef
 resourcetype: Image
 title: presentation2.jpg
 uid: a6fe975a-5d27-35cf-5e79-ed8165ccaf11

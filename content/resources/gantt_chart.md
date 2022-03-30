@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: bb097725-8aab-b7d2-7e42-559fcd0fbc98
 resourcetype: Image
 title: gantt_chart.jpg
 uid: 7be116d8-fb6a-1d1a-c983-2a20c66b7cb3

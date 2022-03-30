@@ -7,6 +7,7 @@ image_metadata:
   caption: Squeezing the prototype, showing the data readout on the computer.
   credit: 'Credit: Photo by the BabyTrackr Team.'
   image-alt: A photo showing the data readout on the computer when squeezing the prototype.
+parent_uid: f4a65097-6cb8-db2f-dac4-78dd84c5f5ef
 resourcetype: Image
 title: presentation7.jpg
 uid: 9c18c1d7-69da-9549-af7d-ebb99d7cff4d

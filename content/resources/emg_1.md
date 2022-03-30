@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: bb097725-8aab-b7d2-7e42-559fcd0fbc98
 resourcetype: Image
 title: emg_1.jpg
 uid: d02a3c0e-7d9e-db96-eac1-c7b7498464d6

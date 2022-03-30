@@ -7,6 +7,7 @@ image_metadata:
   caption: Oscilloscope readout from prototype.
   credit: 'Credit: Photo by the BabyTrackr Team.'
   image-alt: ' A photo showing the change in voltage on an oscilloscope.'
+parent_uid: e536b319-9193-b55a-39cf-dc26a2849a02
 resourcetype: Image
 title: tektronix.jpg
 uid: 8bb1426d-58fc-39b4-a674-8c91b184359c

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f0a881e5-0cc4-23d7-a570-f619feff7140
 resourcetype: Image
 title: prototype_3.jpg
 uid: 8f081878-0f12-da51-ad0a-383810594341

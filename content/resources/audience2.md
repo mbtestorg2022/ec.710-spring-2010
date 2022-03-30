@@ -7,6 +7,7 @@ image_metadata:
   caption: Presenting the prototype.
   credit: 'Credit: Photo by the BabyTrackr Team.'
   image-alt: A photo showing a team member presenting the prototype to an attendee.
+parent_uid: e536b319-9193-b55a-39cf-dc26a2849a02
 resourcetype: Image
 title: audience2.jpg
 uid: fd163f70-5f38-3f56-9914-96b69e21ed9c

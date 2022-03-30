@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 8c3a3d5c-2820-b60c-8818-e9cf57c805e1
 resourcetype: Image
 title: testing.jpg
 uid: 25e4f514-ad60-ab62-15cd-8c62b1aa477c

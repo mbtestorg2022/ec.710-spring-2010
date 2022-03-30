@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 8c3a3d5c-2820-b60c-8818-e9cf57c805e1
 resourcetype: Image
 title: pressure.jpg
 uid: 3b4eb45b-36e6-f63f-aba6-4b4c8fb0ad14

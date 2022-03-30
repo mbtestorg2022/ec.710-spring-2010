@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo by the BabyTrackr Team.'
   image-alt: Photo of disposable gloves filled with different materials on a table
     next to four different squeeze toys.
+parent_uid: 1f285a39-6e3b-596b-f990-f46eed40d51c
 resourcetype: Image
 title: gallery3img7.jpg
 uid: 3ceac5f4-0e98-3a1c-0bd5-69ece42e8f12

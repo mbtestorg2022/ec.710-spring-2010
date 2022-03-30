@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f60fa61f-6f4f-bdf5-5fa7-cf2c4c4b918f
 resourcetype: Image
 title: vapor_laser.jpg
 uid: c5bed93f-33ac-4b46-3392-27fedbbcab2b

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 0ff0dfa9-90ca-535e-b4c9-f41e25e219c3
 resourcetype: Image
 title: medicine.jpg
 uid: 64e0bd59-7fe8-1408-1cb4-050499da4a24

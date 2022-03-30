@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: bfbe597f-c281-aece-7644-2ceb2a3ff08d
 resourcetype: Image
 title: possible_tip.jpg
 uid: 8f70f4e4-c8ab-a2cf-8db1-dd52a73fe89b

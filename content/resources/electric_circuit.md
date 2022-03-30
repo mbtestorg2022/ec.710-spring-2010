@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: bc5c9eac-df21-936f-ac53-72945b747c52
 resourcetype: Image
 title: electric_circuit.jpg
 uid: eb93fdb1-9941-c8c4-d64f-66998d06fd24

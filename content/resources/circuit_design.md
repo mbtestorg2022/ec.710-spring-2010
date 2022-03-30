@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: bb097725-8aab-b7d2-7e42-559fcd0fbc98
 resourcetype: Image
 title: circuit_design.jpg
 uid: fa4c5f5d-9e90-f563-7282-135c3744cc43

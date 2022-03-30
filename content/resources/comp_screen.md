@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo by the BabyTrackr Team.'
   image-alt: A photo showing a response curve displayed on the computer screen during
     testing.
+parent_uid: e536b319-9193-b55a-39cf-dc26a2849a02
 resourcetype: Image
 title: comp_screen.jpg
 uid: 100e9303-59e7-1b0e-9fa3-bd483cffef77

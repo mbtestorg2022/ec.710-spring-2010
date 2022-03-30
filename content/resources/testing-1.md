@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo by the BabyTrackr Team.'
   image-alt: A photo showing an attendee squeezing the prototype, which was connected
     to a circuit board.
+parent_uid: a3ad3400-ea45-562e-ae2f-6140522b585a
 resourcetype: Image
 title: testing.jpg
 uid: 4ccea349-8d8c-6bd5-b923-7bb815bd9392

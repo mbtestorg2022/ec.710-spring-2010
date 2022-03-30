@@ -7,6 +7,7 @@ image_metadata:
   caption: Demonstration at the MIT Museum.
   credit: 'Credit: Photo by the BabyTrackr Team.'
   image-alt: A photo of the team speaking with attendees at the poster session.
+parent_uid: f4a65097-6cb8-db2f-dac4-78dd84c5f5ef
 resourcetype: Image
 title: presentation3.jpg
 uid: 3363534d-b40e-acec-2df4-b058dc236d41

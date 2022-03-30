@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: bb097725-8aab-b7d2-7e42-559fcd0fbc98
 resourcetype: Image
 title: BabyTrackr_Hesperian.jpg
 uid: 4dd7cfc1-a4d4-4853-c725-e11244f5f0e9

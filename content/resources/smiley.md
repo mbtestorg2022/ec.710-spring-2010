@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: bc5c9eac-df21-936f-ac53-72945b747c52
 resourcetype: Image
 title: smiley.jpg
 uid: 9559bd26-03ee-9215-6056-53585773e12d

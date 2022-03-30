@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 50b2cdae-c3d8-7904-96ad-3dffc1b0dad5
 resourcetype: Image
 title: tissue.jpg
 uid: 354419f1-a8d8-b481-145b-3db936a11bad

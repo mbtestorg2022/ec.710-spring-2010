@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 8c3a3d5c-2820-b60c-8818-e9cf57c805e1
 resourcetype: Image
 title: breadboard_circuit.jpg
 uid: ae3ba528-091e-6818-33bc-92195e3d9ede

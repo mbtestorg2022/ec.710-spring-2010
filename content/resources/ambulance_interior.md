@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: Photo of an ambulance interior with no visible medical supplies.
+parent_uid: bc5c9eac-df21-936f-ac53-72945b747c52
 resourcetype: Image
 title: ambulance_interior.jpg
 uid: c636ee58-1c8b-5e2f-64ba-5e51ada237d9
